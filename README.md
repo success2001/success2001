@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @success2001
-- 👀 I’m interested in AI and Machine learning 
-- 🌱 I’m currently learning Computer science 
-- 💞️ I’m looking to collaborate on any AI project 
+- 👀 I’m interested in Website design and development
+- 🌱 I’m a computer sscience graduate rom Babcock university
+- 💞️ I’m looking to collaborate on web project 
 - 📫 reach me through my mail: olaworesuccess@gmail.com
 
 <!---
